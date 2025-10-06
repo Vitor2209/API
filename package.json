@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "APi do zero com Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitor2209/API_Node.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitor2209/API_Node.JS/issues"
+  },
+  "homepage": "https://github.com/Vitor2209/API_Node.JS#readme",
+  "dependencies": {
+    "@prisma/client": "^6.16.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.3"
+  }
+}
