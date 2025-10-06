@@ -57,6 +57,24 @@ app.delete('/usuarios/:id', async (req, res) => {
 
 })
 
+app.get('/usuarios', async (req, res) => {
+
+  let users = []
+
+  if (req.query) {
+    users = await prisma.user.findMany (
+      {
+        where: {
+          name: req.query.name
+        }
+      }
+    )
+
+  } else {
+    users = await prisma.user.findMany()
+  }
+})
+
 app.listen(4000)
 
 /*
