@@ -25,5 +25,5 @@ Esta é a **versão 1.0.0**, que marca a primeira release estável do projeto, c
 
 ---
 
-## 📁 Estrutura do Projeto
+
 
