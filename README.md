@@ -1,6 +1,6 @@
-# 💼 API de Cadastro de Funcionários — Versão 1.0.0
+# 💼 API de Cadastro de Usuários — Versão 1.0.0
 
-A **API de Cadastro de Funcionários** é uma aplicação **RESTful** desenvolvida em **Node.js** com **MongoDB**, criada para gerenciar informações de colaboradores de forma simples e eficiente.  
+A **API de Cadastro de usuários** é uma aplicação **RESTful** desenvolvida em **Node.js** com **MongoDB**, criada para gerenciar informações de pessoas de forma simples e eficiente.  
 Esta é a **versão 1.0.0**, que marca a primeira release estável do projeto, com todas as operações básicas de CRUD totalmente funcionais.
 
 ---
