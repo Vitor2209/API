@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Vitor2209/API_Node.JS#readme",
   "dependencies": {
     "@prisma/client": "^6.16.3",
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
