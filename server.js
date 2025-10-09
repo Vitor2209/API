@@ -77,9 +77,4 @@ app.get('/usuarios', async (req, res) => {
 
 app.listen(4000)
 
-/*
-
-vitorMelo
-QQ7fqBG5BTkemY24
-
-*/ 
+ 
